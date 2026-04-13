@@ -142,7 +142,7 @@ AI-Autonomous-Navigation-System/
 - GitHub portfolio development
 
 ## Author
-[Your Name] - AI Engineering Student
+[Om Navgire] - AI Engineering Student
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
